@@ -1,0 +1,20 @@
+{
+    "source": "A_AI_Racer_Lap_1.fbx",
+    "skeleton": "bf74f187-d9ae-290a-3f0f-f29892165143",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "bf74f187-d9ae-290a-3f0f-f29892165143"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "999f56fd-8a36-47bb-b6d3-9aa72327726a"
+        }
+    ],
+    "guid": "999f56fd-8a36-47bb-b6d3-9aa72327726a",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "bf74f187-d9ae-290a-3f0f-f29892165143"
+    ],
+    "instanceGuid": "761b5334-ec74-95f9-6924-2083c86db19b"
+}

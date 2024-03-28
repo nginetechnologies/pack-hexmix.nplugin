@@ -27,6 +27,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "040cd859-11fc-c509-9531-5d007e8889f8": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/SK AI Racer Paint Yellow.meshskin.nasset",
+        "dependencies": [
+            "5406ea99-fadf-471c-c5a2-6efa77cd82ec",
+            "bf74f187-d9ae-290a-3f0f-f29892165143",
+            "ba6dcbcc-263c-a36b-7de7-4bfcaab078cc"
+        ]
+    },
     "05691b6f-7af6-633c-8453-30d06cf0b715": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -167,6 +177,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_HexMix.scene.nasset/Terrain Grass Hill Curve Inner Gentle.mesh.nasset/Thumbnails/Terrain Grass Hill Curve Inner Gentle.mesh.nasset.tex.nasset"
     },
+    "0f8f7c9b-4381-9725-8122-c06e34f2f493": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK_AI_Racer.scene.nasset",
+        "dependencies": [
+            "a0154277-609f-55e0-44f1-1436e0fa39fc"
+        ]
+    },
     "11326a07-dacc-60bc-725a-4f33e2761146": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -286,6 +304,10 @@
     "199825b5-5f43-f64f-a14b-9bde5a7c39b8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Hex_Mix_EnviroSpecular.tex.nasset"
+    },
+    "1bf22770-9cfe-4945-9099-82256fd3e8c8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_HexMix.scene.nasset/Start Finish.mesh.nasset/Thumbnails/Start Finish.mesh.nasset.tex.nasset"
     },
     "1cdc1141-4e28-9e93-9aa4-a227cd66185b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -459,6 +481,18 @@
             "cccfd4d4-147f-2f44-43ea-202a53312a8d"
         ]
     },
+    "2cf48c5d-8067-848c-2c59-ee94dbc0e71c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/SK AI Racer Window.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ca430f07-6fc1-22cb-5640-09979fa9caef",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "2dc65d2d-2875-956f-27b3-1fc832a82075": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_HexMix.scene.nasset/Track Flat Curve Gentle.mesh.nasset/Thumbnails/Track Flat Curve Gentle.mesh.nasset.tex.nasset"
@@ -592,6 +626,18 @@
         ],
         "dependencies": [
             "f52024a0-7ca0-fc0b-3680-39e623f0fe94",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3fb5a688-becc-aced-37c4-912aca431437": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/SK AI Racer White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "925813c3-1932-10b4-577e-0e57024d804e",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -765,6 +811,16 @@
             "ff67bde6-568f-69b1-d683-8ae672dadc84"
         ]
     },
+    "4af48a7d-d6b1-5d5e-39b4-2aee77ea2dc4": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/SK AI Racer White.meshskin.nasset",
+        "dependencies": [
+            "3fb5a688-becc-aced-37c4-912aca431437",
+            "bf74f187-d9ae-290a-3f0f-f29892165143",
+            "925813c3-1932-10b4-577e-0e57024d804e"
+        ]
+    },
     "4bc7a2e8-c7b1-d00b-6688-f3b0a9f038a6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -831,7 +887,9 @@
             "28829e08-c27c-d0d1-f6fa-7af3f7e77814",
             "f4466a6e-bf39-7108-a86a-af639c2c0461",
             "bab0719a-94b4-100c-e3ba-d9ed7f36e93c",
-            "11716d9a-39d1-8bf5-53dc-7b025e73b2d1"
+            "11716d9a-39d1-8bf5-53dc-7b025e73b2d1",
+            "6d3aae09-e755-6b52-5d64-20238244c6eb",
+            "59da725a-c06e-0afe-7f41-db4758bfd9a6"
         ]
     },
     "4dd8f58a-a556-078c-6536-4f8b3c40a9c9": {
@@ -874,6 +932,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "511564aa-3a5a-5b4b-df9a-cf523820e5f2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/SK AI Racer Paint Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9e2ee964-17f9-cfb8-d89b-2e51a562ea55",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "51b91344-bb2d-f772-c398-36d3604bae86": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_HexMix.scene.nasset/Water.001.mesh.nasset/Thumbnails/Water.001.mesh.nasset.tex.nasset"
@@ -909,6 +979,18 @@
         ],
         "dependencies": [
             "3645cf65-ffc6-e894-d66d-23efb0b1d396",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5406ea99-fadf-471c-c5a2-6efa77cd82ec": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/SK AI Racer Paint Yellow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ba6dcbcc-263c-a36b-7de7-4bfcaab078cc",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -978,6 +1060,22 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "59da725a-c06e-0afe-7f41-db4758bfd9a6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_HexMix.scene.nasset/Start Finish.mesh.nasset/Start Finish.mesh.nasset",
+        "thumbnail": "1bf22770-9cfe-4945-9099-82256fd3e8c8",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a240775a-b643-0f83-da20-92546c1de74d",
+            "9db36539-84ce-c1a9-1a1b-2e5b063d8f0d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "0b3d63e0-f5d3-e384-010d-31f07ffbd935",
+            "690d6a4d-8580-cbc6-5156-a52aac7d8d0f"
+        ]
+    },
     "5a6a5f6b-7252-677f-35a4-e161ced47115": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Water.mtli.nasset.tex.nasset"
@@ -1015,6 +1113,30 @@
         ],
         "dependencies": [
             "3645cf65-ffc6-e894-d66d-23efb0b1d396",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "620bc9de-427a-7ac8-7585-0cdac6875241": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/SK AI Racer Plastic.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a0792023-048f-9684-cdfa-b8138475302f",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "62f69539-0813-badc-47f0-d78cc92e3431": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_HexMix.scene.nasset/Checkpoint.mesh.nasset/Checkpoint Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "659d6223-aec6-69e2-16f1-41ba2b3839ba",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1071,6 +1193,18 @@
         ],
         "dependencies": [
             "a240775a-b643-0f83-da20-92546c1de74d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "690d6a4d-8580-cbc6-5156-a52aac7d8d0f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_HexMix.scene.nasset/Start Finish.mesh.nasset/Start Finish Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0b3d63e0-f5d3-e384-010d-31f07ffbd935",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1132,6 +1266,22 @@
         "dependencies": [
             "2265b036-10e6-9beb-5257-7200c7b0fb23",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6d3aae09-e755-6b52-5d64-20238244c6eb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/SC_HexMix.scene.nasset/Checkpoint.mesh.nasset/Checkpoint.mesh.nasset",
+        "thumbnail": "81078b44-97b3-4969-8225-809bad915c87",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "659d6223-aec6-69e2-16f1-41ba2b3839ba",
+            "62f69539-0813-badc-47f0-d78cc92e3431",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
+            "a240775a-b643-0f83-da20-92546c1de74d",
+            "a6702a4c-b8c8-9e17-3af0-c55fe4fd615a"
         ]
     },
     "6d4048f5-5fec-254e-4f21-539beb79f358": {
@@ -1266,9 +1416,20 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_HexMix.scene.nasset/Track Bridge Ramp.mesh.nasset/Thumbnails/Track Bridge Ramp.mesh.nasset.tex.nasset"
     },
+    "7f371f1c-9e0a-fd4f-7044-bf932d611865": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/AI/Material Instances/Rubber.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "80f4dc85-dd92-8771-0fe8-43e199949dde": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Default.mtli.nasset.tex.nasset"
+    },
+    "81078b44-97b3-4969-8225-809bad915c87": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_HexMix.scene.nasset/Checkpoint.mesh.nasset/Thumbnails/Checkpoint.mesh.nasset.tex.nasset"
     },
     "81ba1256-b31e-3bc8-6a7b-80d9199cd1fa": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1410,6 +1571,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8bb1b709-00ed-dadd-dd89-02f10222c2d0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/SK AI Racer Rubber.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7f371f1c-9e0a-fd4f-7044-bf932d611865",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "8bccdce1-47cb-2879-08e8-451a3076889a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1526,6 +1699,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "925813c3-1932-10b4-577e-0e57024d804e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/AI/Material Instances/White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "9510a3b2-ef81-1eaa-5ebc-91e783531991": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_HexMix.scene.nasset/Track Bridge.mesh.nasset/Thumbnails/Track Bridge.mesh.nasset.tex.nasset"
@@ -1576,6 +1756,14 @@
             "12ae2157-036a-87b1-bbb1-a8b49460b0ef"
         ]
     },
+    "999f56fd-8a36-47bb-b6d3-9aa72327726a": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/AI/Animations/AI Racer Lap 1.anim.nasset",
+        "dependencies": [
+            "bf74f187-d9ae-290a-3f0f-f29892165143"
+        ]
+    },
     "99b01b54-5e23-79d3-c2d2-a93d68ea7416": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Foliage.mtli.nasset.tex.nasset"
@@ -1604,9 +1792,28 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9db36539-84ce-c1a9-1a1b-2e5b063d8f0d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_HexMix.scene.nasset/Start Finish.mesh.nasset/Start Finish  White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a240775a-b643-0f83-da20-92546c1de74d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "9df97bb0-b7b3-3b77-860b-609bb50d3898": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_HexMix.scene.nasset/Building Cabin.mesh.nasset/Thumbnails/Building Cabin.mesh.nasset.tex.nasset"
+    },
+    "9e2ee964-17f9-cfb8-d89b-2e51a562ea55": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/AI/Material Instances/Paint Red.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "9f88184f-d232-0079-ddb8-9ccbb61b1564": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1634,6 +1841,43 @@
         "dependencies": [
             "54e194dd-a22d-2d26-789c-17e4371c48cc",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "a0154277-609f-55e0-44f1-1436e0fa39fc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/SK AI Racer.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "7f371f1c-9e0a-fd4f-7044-bf932d611865",
+            "8bb1b709-00ed-dadd-dd89-02f10222c2d0",
+            "c4dc9e41-9732-e544-2a45-1c41b6e380c1",
+            "a0792023-048f-9684-cdfa-b8138475302f",
+            "620bc9de-427a-7ac8-7585-0cdac6875241",
+            "e63d49ef-772e-554b-30ac-2123c75e9774",
+            "ba6dcbcc-263c-a36b-7de7-4bfcaab078cc",
+            "5406ea99-fadf-471c-c5a2-6efa77cd82ec",
+            "040cd859-11fc-c509-9531-5d007e8889f8",
+            "9e2ee964-17f9-cfb8-d89b-2e51a562ea55",
+            "511564aa-3a5a-5b4b-df9a-cf523820e5f2",
+            "ffa89256-2299-d29c-e499-625018e52700",
+            "ca430f07-6fc1-22cb-5640-09979fa9caef",
+            "2cf48c5d-8067-848c-2c59-ee94dbc0e71c",
+            "c63bb6a4-dff4-8e6e-fa88-7b7418c282fc",
+            "925813c3-1932-10b4-577e-0e57024d804e",
+            "3fb5a688-becc-aced-37c4-912aca431437",
+            "4af48a7d-d6b1-5d5e-39b4-2aee77ea2dc4",
+            "bf74f187-d9ae-290a-3f0f-f29892165143",
+            "999f56fd-8a36-47bb-b6d3-9aa72327726a"
+        ]
+    },
+    "a0792023-048f-9684-cdfa-b8138475302f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/AI/Material Instances/Plastic.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "a12aff9c-1c67-a20c-2629-fec3a5fc77bc": {
@@ -1721,6 +1965,18 @@
     "a65d398d-70a4-a7d4-4d6a-ee2c0f7ef973": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_HexMix.scene.nasset/Building Village.mesh.nasset/Thumbnails/Building Village.mesh.nasset.tex.nasset"
+    },
+    "a6702a4c-b8c8-9e17-3af0-c55fe4fd615a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/SC_HexMix.scene.nasset/Checkpoint.mesh.nasset/Checkpoint  White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a240775a-b643-0f83-da20-92546c1de74d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "aa73ad67-77fd-4c05-2836-2c033827936d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1908,6 +2164,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ba6dcbcc-263c-a36b-7de7-4bfcaab078cc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/AI/Material Instances/Paint Yellow.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "bab0719a-94b4-100c-e3ba-d9ed7f36e93c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1976,6 +2239,11 @@
             "ee1f7159-b0ff-68c2-09a2-c11f0844f140"
         ]
     },
+    "bf74f187-d9ae-290a-3f0f-f29892165143": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "bfc24f8b-392a-ca35-4f99-f8e0626e763c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2028,6 +2296,16 @@
             "8dc002a1-864f-090a-66a2-204f59286d9c"
         ]
     },
+    "c4dc9e41-9732-e544-2a45-1c41b6e380c1": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/SK AI Racer Rubber.meshskin.nasset",
+        "dependencies": [
+            "8bb1b709-00ed-dadd-dd89-02f10222c2d0",
+            "bf74f187-d9ae-290a-3f0f-f29892165143",
+            "7f371f1c-9e0a-fd4f-7044-bf932d611865"
+        ]
+    },
     "c525d0de-94f1-7ef2-ca21-f7bc7b806126": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2056,6 +2334,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_HexMix.scene.nasset/Terrain Grass Flat.mesh.nasset/Thumbnails/Terrain Grass Flat.mesh.nasset.tex.nasset"
     },
+    "c63bb6a4-dff4-8e6e-fa88-7b7418c282fc": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/SK AI Racer Window.meshskin.nasset",
+        "dependencies": [
+            "2cf48c5d-8067-848c-2c59-ee94dbc0e71c",
+            "bf74f187-d9ae-290a-3f0f-f29892165143",
+            "ca430f07-6fc1-22cb-5640-09979fa9caef"
+        ]
+    },
     "c8d076c4-88b3-2778-8f45-002ec95a7299": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2071,6 +2359,13 @@
     "c96a11d8-250b-7ee6-c611-f0e7d98c9e88": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Wood.mtli.nasset.tex.nasset"
+    },
+    "ca430f07-6fc1-22cb-5640-09979fa9caef": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/AI/Material Instances/Window.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "ca607229-46d1-263b-c078-a23d52fd5df6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2286,6 +2581,16 @@
         "dependencies": [
             "2265b036-10e6-9beb-5257-7200c7b0fb23",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e63d49ef-772e-554b-30ac-2123c75e9774": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/SK AI Racer Plastic.meshskin.nasset",
+        "dependencies": [
+            "620bc9de-427a-7ac8-7585-0cdac6875241",
+            "bf74f187-d9ae-290a-3f0f-f29892165143",
+            "a0792023-048f-9684-cdfa-b8138475302f"
         ]
     },
     "e6b575dc-66d8-4754-e6d4-4f2c42061411": {
@@ -2572,6 +2877,16 @@
         "dependencies": [
             "f52024a0-7ca0-fc0b-3680-39e623f0fe94",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ffa89256-2299-d29c-e499-625018e52700": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/AI/SK_AI_Racer.scene.nasset/SK AI Racer.mesh.nasset/SK AI Racer Paint Red.meshskin.nasset",
+        "dependencies": [
+            "511564aa-3a5a-5b4b-df9a-cf523820e5f2",
+            "bf74f187-d9ae-290a-3f0f-f29892165143",
+            "9e2ee964-17f9-cfb8-d89b-2e51a562ea55"
         ]
     },
     "guid": "562eef3c-d464-3acf-e2e0-92f9546c9717"

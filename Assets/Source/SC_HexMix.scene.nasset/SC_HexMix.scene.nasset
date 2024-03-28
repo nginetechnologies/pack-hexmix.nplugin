@@ -854,8 +854,8 @@
             ],
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -142.641,
-                    135.0,
+                    -141.9437,
+                    134.5974,
                     0.0
                 ],
                 "rotation": [
@@ -4800,6 +4800,106 @@
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "ebbad559-2eba-5853-bbef-608e7bdb0a92"
             }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "802fda4f-96fb-3fc4-ea0f-12db68a7e808",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Checkpoint"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -210.0,
+                    82.0,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    -89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6d3aae09-e755-6b52-5d64-20238244c6eb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "68bd9db2-359c-c7b0-c432-5ea1620ca4cd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Start Finish"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -23.0,
+                    86.5,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "59da725a-c06e-0afe-7f41-db4758bfd9a6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bd0f2aaf-c956-e1eb-0b59-20e75581bdc4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Checkpoint.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -40.0,
+                    -8.0,
+                    0.0
+                ],
+                "rotation": [
+                    90.0,
+                    -0.0,
+                    -89.9999
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6d3aae09-e755-6b52-5d64-20238244c6eb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6f3b22af-1398-5051-1b37-0214e0ea4d7b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Checkpoint.002"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -75.2165,
+                    -85.625,
+                    -0.0
+                ],
+                "rotation": [
+                    89.9999,
+                    0.0,
+                    30.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6d3aae09-e755-6b52-5d64-20238244c6eb"
+            }
         }
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -4841,6 +4941,8 @@
         "28829e08-c27c-d0d1-f6fa-7af3f7e77814",
         "f4466a6e-bf39-7108-a86a-af639c2c0461",
         "bab0719a-94b4-100c-e3ba-d9ed7f36e93c",
-        "11716d9a-39d1-8bf5-53dc-7b025e73b2d1"
+        "11716d9a-39d1-8bf5-53dc-7b025e73b2d1",
+        "6d3aae09-e755-6b52-5d64-20238244c6eb",
+        "59da725a-c06e-0afe-7f41-db4758bfd9a6"
     ]
 }

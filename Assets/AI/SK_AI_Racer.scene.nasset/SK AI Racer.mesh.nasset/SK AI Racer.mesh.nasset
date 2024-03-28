@@ -1,0 +1,219 @@
+{
+    "guid": "a0154277-609f-55e0-44f1-1436e0fa39fc",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d9838982-51ed-04e8-f5db-ded5237bd878",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "faed737e-fb4e-d691-8ee8-ce329823d2df",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK AI Racer Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "b606bd2c-fe72-e9d7-dacc-4c56f55e6c68",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "999f56fd-8a36-47bb-b6d3-9aa72327726a",
+                                "999f56fd-8a36-47bb-b6d3-9aa72327726a",
+                                "999f56fd-8a36-47bb-b6d3-9aa72327726a"
+                            ],
+                            "jump_animations": [
+                                "999f56fd-8a36-47bb-b6d3-9aa72327726a",
+                                "999f56fd-8a36-47bb-b6d3-9aa72327726a",
+                                "999f56fd-8a36-47bb-b6d3-9aa72327726a"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d45ed457-d470-4a3e-18c9-db7931cd8dab",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK AI Racer Rubber"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "8bb1b709-00ed-dadd-dd89-02f10222c2d0",
+                                "material_instance": "7f371f1c-9e0a-fd4f-7044-bf932d611865"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c4dc9e41-9732-e544-2a45-1c41b6e380c1"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "681ce825-72ab-c548-2236-8124e85d0f49",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK AI Racer Plastic"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "620bc9de-427a-7ac8-7585-0cdac6875241",
+                                "material_instance": "a0792023-048f-9684-cdfa-b8138475302f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e63d49ef-772e-554b-30ac-2123c75e9774"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "e7147c80-eeb2-5896-b6d2-f4becb598b64",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK AI Racer Paint Yellow"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "5406ea99-fadf-471c-c5a2-6efa77cd82ec",
+                                "material_instance": "ba6dcbcc-263c-a36b-7de7-4bfcaab078cc"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "040cd859-11fc-c509-9531-5d007e8889f8"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "924cef05-1606-2b41-2a38-bef2b0ca19d7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK AI Racer Paint Red"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "511564aa-3a5a-5b4b-df9a-cf523820e5f2",
+                                "material_instance": "9e2ee964-17f9-cfb8-d89b-2e51a562ea55"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ffa89256-2299-d29c-e499-625018e52700"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "0c540913-a7e5-9f34-4e65-8000b384bbdc",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK AI Racer Window"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2cf48c5d-8067-848c-2c59-ee94dbc0e71c",
+                                "material_instance": "ca430f07-6fc1-22cb-5640-09979fa9caef"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c63bb6a4-dff4-8e6e-fa88-7b7418c282fc"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "a37c9ab0-c414-cc64-375b-d95e3efa84f1",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK AI Racer White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3fb5a688-becc-aced-37c4-912aca431437",
+                                "material_instance": "925813c3-1932-10b4-577e-0e57024d804e"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "4af48a7d-d6b1-5d5e-39b4-2aee77ea2dc4"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "bf74f187-d9ae-290a-3f0f-f29892165143"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a0154277-609f-55e0-44f1-1436e0fa39fc"
+    },
+    "dependencies": [
+        "7f371f1c-9e0a-fd4f-7044-bf932d611865",
+        "8bb1b709-00ed-dadd-dd89-02f10222c2d0",
+        "c4dc9e41-9732-e544-2a45-1c41b6e380c1",
+        "a0792023-048f-9684-cdfa-b8138475302f",
+        "620bc9de-427a-7ac8-7585-0cdac6875241",
+        "e63d49ef-772e-554b-30ac-2123c75e9774",
+        "ba6dcbcc-263c-a36b-7de7-4bfcaab078cc",
+        "5406ea99-fadf-471c-c5a2-6efa77cd82ec",
+        "040cd859-11fc-c509-9531-5d007e8889f8",
+        "9e2ee964-17f9-cfb8-d89b-2e51a562ea55",
+        "511564aa-3a5a-5b4b-df9a-cf523820e5f2",
+        "ffa89256-2299-d29c-e499-625018e52700",
+        "ca430f07-6fc1-22cb-5640-09979fa9caef",
+        "2cf48c5d-8067-848c-2c59-ee94dbc0e71c",
+        "c63bb6a4-dff4-8e6e-fa88-7b7418c282fc",
+        "925813c3-1932-10b4-577e-0e57024d804e",
+        "3fb5a688-becc-aced-37c4-912aca431437",
+        "4af48a7d-d6b1-5d5e-39b4-2aee77ea2dc4",
+        "bf74f187-d9ae-290a-3f0f-f29892165143",
+        "999f56fd-8a36-47bb-b6d3-9aa72327726a"
+    ]
+}
